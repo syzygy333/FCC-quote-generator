@@ -1,0 +1,39 @@
+body {
+  background: #006688;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.fa-twitter-square {
+  margin-top: 20px;
+  transition: color 0.2s;
+  text-align: left;
+}
+
+.fa-twitter-square:hover {
+  color: #006688;
+}
+
+.wrapper {
+  background: #dddddd;
+  border-radius: 4px;
+  box-shadow: 6px 6px 20px #111122;
+  margin: 25px auto;
+  padding: 25px;
+  text-align: center;
+  width: 550px;
+}
+
+#quote {
+  font-family: 'Allura', cursive;
+  font-size: 50px;
+  line-height: 50px;
+}
+
+#author {
+  font-family: 'Bevan', cursive;
+  font-size: 30px;
+  line-height: 50px;
+}
