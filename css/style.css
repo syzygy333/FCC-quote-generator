@@ -30,6 +30,7 @@ button {
   font-family: 'Allura', cursive;
   font-size: 50px;
   line-height: 50px;
+  transition: text 2s;
 }
 
 #author {
